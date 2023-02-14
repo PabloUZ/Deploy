@@ -7,6 +7,6 @@
 
 npm i angular-cli-ghpages
 <br>
-ng build --prod --base-href="./"
+ng build --configuration production --base-href="./"
 <br>
 npx angular-cli-ghpages – dir=dist
